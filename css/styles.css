@@ -1,9 +1,33 @@
-#title{
-  background-color: #FF4C68;
+/* Navbar */
+
+.navbar{
+  padding-bottom: 4.5rem;
 }
 
-.main-heading{
-  font-family: 'Montserrat',sans-serif;
-  font-size: 3rem;
-  line-height: 1.5;
+
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-weight: bold;
+}
+
+/* Navbar */
+
+#title {
+  background-color : #FF4C68;
+}
+
+.main-heading {
+  color       : white;
+  font-family : 'Montserrat',
+                sans-serif;
+  font-size   : 3rem;
+  line-height : 1.5;
+}
+
+body{
+  font-family : 'Montserrat', sans-serif;
+}
+
+.container-fluid {
+  padding : 3% 15%;
 }
