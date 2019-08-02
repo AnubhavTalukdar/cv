@@ -1,5 +1,19 @@
 /* Navbar */
 
+
+@media (max-width: 768px) {
+  .nav-form-margin{
+    margin-top:10px;
+  }
+
+  .nav-form-size{
+    width: 80%;
+    margin-right: 5px;
+  }
+
+}
+
+
 .navbar{
   padding: 0 0 4.5rem 0;
 }
